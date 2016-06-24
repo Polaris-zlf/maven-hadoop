@@ -6,7 +6,6 @@ Maven安装(win)
 MapReduce程序开发
 模板项目上传github
 
-
 1. Maven介绍
 Apache Maven，是一个Java的项目管理及自动构建工具，由Apache软件基金会所提供。基于项目对象模型（缩写：POM）概念，Maven利用一个中央信息片断能管理一个项目的构建、报告和文档等步骤。曾是Jakarta项目的子项目，现为独立Apache项目。
 
